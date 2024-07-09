@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Fear3dB3ard/goit-react-hw-01-components/static/css/main.141c1a3c.css",
-    "main.js": "/Fear3dB3ard/goit-react-hw-01-components/static/js/main.2fa935b6.js",
-    "index.html": "/Fear3dB3ard/goit-react-hw-01-components/index.html",
-    "main.141c1a3c.css.map": "/Fear3dB3ard/goit-react-hw-01-components/static/css/main.141c1a3c.css.map",
-    "main.2fa935b6.js.map": "/Fear3dB3ard/goit-react-hw-01-components/static/js/main.2fa935b6.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.141c1a3c.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.2fa935b6.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.141c1a3c.css.map": "/goit-react-hw-01-components/static/css/main.141c1a3c.css.map",
+    "main.2fa935b6.js.map": "/goit-react-hw-01-components/static/js/main.2fa935b6.js.map"
   },
   "entrypoints": [
     "static/css/main.141c1a3c.css",
