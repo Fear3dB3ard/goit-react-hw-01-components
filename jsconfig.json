@@ -1,6 +1,17 @@
 {
   "compilerOptions": {
-    "baseUrl": "src"
+    "baseUrl": "src",
+    "paths": {
+      "*": ["src/*"],
+      "components/*": ["src/components/*"],
+      "assets/*": ["src/assets/*"],
+      "utils/*": ["src/utils/*"]
+    },
+    "target": "es6",
+    "module": "commonjs",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
   },
   "include": ["src"]
 }
